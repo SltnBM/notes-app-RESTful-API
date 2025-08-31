@@ -69,3 +69,8 @@ npm run start-dev
 npm run build
 ```
 Open browser at `http://localhost:8080` (default webpack-dev-server).
+
+## Certificate
+Successfully completed the "Belajar Fundamental Front-End Web Development" course on Dicoding.
+
+[View Certificate](https://www.dicoding.com/certificates/6RPNG6WM9Z2M)
