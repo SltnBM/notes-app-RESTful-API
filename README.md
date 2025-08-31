@@ -77,3 +77,6 @@ Successfully completed the "Belajar Fundamental Front-End Web Development" cours
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
+
+## License
+This project is part of a submission for Dicoding’s "Belajar Fundamental Front-End Web Development" course.
