@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Notes App</title>
+  </head>
+  <body>
+    <app-header></app-header>
+
+    <main class="container">
+      <note-form max-title="60" max-body="500"></note-form>
+
+      <section>
+        <h2 class="section-title">Active Notes</h2>
+        <div id="notesList" class="notes-grid" aria-live="polite"></div>
+      </section>
+
+      <section>
+        <h2 class="section-title">Archived Notes</h2>
+        <div id="archivedNotesList" class="notes-grid" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <small>© 2025 Notes App — Sultan Badra Maulana</small>
+    </footer>
+  </body>
+</html>
