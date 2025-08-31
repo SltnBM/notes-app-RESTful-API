@@ -1,8 +1,8 @@
-# Notes App - Dicoding Submission
+# 📝 Notes App - Dicoding Submission
 This repository contains the submission project for the **"Belajar Dasar Pemrograman JavaScript"** final Notes App project provided by Dicoding.
 The app demonstrates fetching data from RESTful API, using Web Components, and applying animations & feedback mechanisms.
 
-## Technologies Used
+## ⚙️ Technologies Used
 - JavaScript (ES6+)
 - Web Components
 - Node.js & npm
@@ -11,7 +11,7 @@ The app demonstrates fetching data from RESTful API, using Web Components, and a
 - SweetAlert2 (for feedback messages)
 - Fetch API
 
-## Features
+## ✨ Features
 - Add new notes
 - Display active notes from Notes API
 - Archive / Unarchive notes
@@ -20,7 +20,7 @@ The app demonstrates fetching data from RESTful API, using Web Components, and a
 - Smooth animations for adding, archiving, and unarchiving notes
 - User-friendly feedback on success or error
 
-## Project Structure
+## 📁 Project Structure
 ```plaintext
 📂 notes-app-RESTful-API
 ├── src/                        # Main source code
@@ -44,10 +44,9 @@ The app demonstrates fetching data from RESTful API, using Web Components, and a
 ├── webpack.common.js
 ├── webpack.dev.js
 └── webpack.prod.js
-
 ```
 
-## How to Run
+## 🚀 How to Run
 1. Clone this repository:
 ```bash
 git clone https://github.com/SltnBM/notes-app-RESTful-API.git
@@ -70,13 +69,13 @@ npm run build
 ```
 Open browser at `http://localhost:8080` (default webpack-dev-server).
 
-## Certificate
+## 📜 Certificate
 Successfully completed the "Belajar Fundamental Front-End Web Development" course on Dicoding.
 
-[View Certificate](https://www.dicoding.com/certificates/6RPNG6WM9Z2M)
+🎖️ [View Certificate](https://www.dicoding.com/certificates/6RPNG6WM9Z2M)
 
-## Connect with Me
+## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
 
-## License
+## 📄 License
 This project is part of a submission for Dicoding’s "Belajar Fundamental Front-End Web Development" course.
