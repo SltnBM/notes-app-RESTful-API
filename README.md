@@ -49,7 +49,7 @@ The app demonstrates fetching data from RESTful API, using Web Components, and a
 ## 🚀 How to Run
 1. Clone this repository:
 ```bash
-git clone https://github.com/SltnBM/notes-app-RESTful-API.git
+git clone https://github.com/SltnBM/final-project-notes-app-RESTful-API.git
 ```
 2. Navigate into the project folder:
 ```
